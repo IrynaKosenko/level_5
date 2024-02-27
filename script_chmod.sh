@@ -13,3 +13,8 @@ do
     echo " Permissions has been changed."
     sleep 5s
 done
+
+# to run this script:
+# screen -S <name> -X <command> 
+# or screen -S <name> 
+        # then sh <file_name>
